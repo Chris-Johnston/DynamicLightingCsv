@@ -5,7 +5,7 @@ positions = []
 filename = "lamparray.0.csv"
 output_filename = "lamparray.0.png"
 
-with open("lamparray.0.csv") as f:
+with open(filename) as f:
     contents = f.read()
 
 coordinates = []
