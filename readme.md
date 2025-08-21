@@ -10,4 +10,5 @@ pip install pillow
 ```
 
 The resulting plot may look like this:
+
 ![example of a plot result](lamparray.0.png)
